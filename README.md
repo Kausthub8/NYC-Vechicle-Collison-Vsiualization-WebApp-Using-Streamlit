@@ -4,6 +4,7 @@
 
 ## Installation
 a. pip install streamlit
+
 b. streamlit run appname
 
 ### Dataset
