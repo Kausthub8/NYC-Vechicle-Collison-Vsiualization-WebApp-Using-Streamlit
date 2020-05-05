@@ -63,10 +63,6 @@ hist = np.histogram(filtered['date/time'].dt.minute, bins=80, range=(0, 80))[0]
 chart_data = pd.DataFrame({'minute': range(80), 'crashes':hist})
 fig = px.bar(chart_data, x='minute', y='crashes', hover_data=['minute', 'crashes'], height=300)
 st.write(fig)
-
-
-
-
 if st.checkbox("Show Raw Data", False):
     st.subheader('Raw Data')
     st.write(data)
