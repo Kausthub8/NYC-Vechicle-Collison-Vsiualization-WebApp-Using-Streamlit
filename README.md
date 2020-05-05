@@ -1,4 +1,4 @@
-# Vehicle-Collision-Web-App-Using-Streamlit-And-Python
+# NYC-Vehicle-Collision-Visualization-Web-App-Using-Streamlit-And-Python
 1. This web-app was built using StreamLit and Python(Data Science)
 2.  StreamLit is basically a open-source framework used for building web-apps fastly with help of simple python scripts.
 
