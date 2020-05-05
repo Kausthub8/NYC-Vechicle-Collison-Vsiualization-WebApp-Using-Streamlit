@@ -14,4 +14,5 @@ In your browser navigate to: http://localhost:8501
 
 #### For Running the App
 a. pip install --upgrade streamlit app1.py
+
 b. streamlit run https://github.com/Kausthub8/Vehicle-Collision-Web-App-Using-Streamlit-And-Python
