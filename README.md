@@ -8,12 +8,9 @@ a. pip install streamlit
 b. streamlit run appname
 
 ### Dataset
-    <https://www.kaggle.com/new-york-city/nypd-motor-vehicle-collisions>
-    
-### Access
-In your browser navigate to: http://localhost:8501
+    <https://www.kaggle.com/new-york-city/nypd-motor-vehicle-collisions
 
-#### For Running the App
+### For Running the App
 a. pip install --upgrade streamlit app1.py
 
 b. streamlit run https://github.com/Kausthub8/Vehicle-Collision-Web-App-Using-Streamlit-And-Python
